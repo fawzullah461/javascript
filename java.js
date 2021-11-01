@@ -14,5 +14,5 @@ if (hrs < 12)
     else if (hrs >= 17 && hrs <= 24)
         greet = 'Good Evening';
 
-alert(date  + " " +  greet + " Dev Mohy, from fawzullah");
+alert(date  + " " +  greet + " hey baby good morning, from fawzullah");
 
